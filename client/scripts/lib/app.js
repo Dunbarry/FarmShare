@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 import 'angular-animate';
 import 'angular-meteor';
 import 'angular-sanitize';
